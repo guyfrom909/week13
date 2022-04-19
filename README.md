@@ -3,11 +3,11 @@
 
 The files in this repository were used to configure the network depicted below.
 
-(Diagrams/Elk-DVWA.png)
+Diagrams/Elk-DVWA.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yml file may be used to install only certain pieces of it, such as Filebeat.
 
-  - (Ansible/elk-playbook.yml)
+  - Ansible/elk-playbook.yml
 
 This document contains the following details:
 - Description of the Topology
